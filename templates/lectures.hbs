@@ -6,8 +6,8 @@
             <thead>
                 <tr>
                     <th></th>
-                    <th>Slides</th>
-                    <th>Notes</th>
+                    <th>Topics</th>
+                    <th>Materials</th>
                     <th>References</th>
                 </tr>
             </thead>
@@ -23,9 +23,9 @@
                         </h1>
                     </th>
                     <td class="slides">
-                        <h1 class="phone-only-block">Slides</h1>
-                        {{#if Slides}}
-                            <ul>{{#each Slides}}
+                        <h1 class="phone-only-block">Topics</h1>
+                        {{#if Topics}}
+                            <ul>{{#each Topics}}
                                     <li>{{maybeLink this}}</li>
                                 {{/each}}
                             </ul>
@@ -34,9 +34,9 @@
                         {{/if}}
                     </td>
                     <td class="notes">
-                        <h1 class="phone-only-block">Notes</h1>
-                        {{#if Notes}}
-                            <ul>{{#each Notes}}
+                        <h1 class="phone-only-block">Materials</h1>
+                        {{#if Materials}}
+                            <ul>{{#each Materials}}
                                     <li>{{maybeLink this}}</li>
                                 {{/each}}
                             </ul>
