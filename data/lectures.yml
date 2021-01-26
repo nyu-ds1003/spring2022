@@ -8,12 +8,12 @@
         - Excess risk decomposition 
         - Empirical risk minimization
       Materials:
+        - Review of linear algebra
       References:
 #        - {"Bottou's SGD Tricks": "http://leon.bottou.org/papers/bottou-tricks-2012"}
     2021-02-03:
       Label: Lab
       Topics:
-       - Review of linear algebra
        - Gradients and directional derivatives
       Materials:
           #- {STL & Excess Risk Decomposition Demo Questions (ipynb) : "https://davidrosenberg.github.io/mlcourse/Archive/2019/Labs/2-STL_Lab-Questions.ipynb"}
