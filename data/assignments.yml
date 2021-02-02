@@ -7,12 +7,12 @@ Submit link: "https://gradescope.com"
   Due: 2000-01-01
   PDF: {hw0.pdf: "https://github.com/nyu-ds1003/mlcourse/blob/master/assignments/hw0/hw0_latex.pdf"}
   ZIP: {hw0.zip: "https://github.com/nyu-ds1003/mlcourse/blob/master/assignments/hw0/hw0.zip"}
-# -
-#   Label: Homework 1
-#   Description: TODO
-#   Due: 2019-02-09
-#   PDF: {hw1.pdf: " https://davidrosenberg.github.io/mlcourse/Archive/2019/Homework/hw1.pdf"}
-#   ZIP: {hw1.zip: " https://davidrosenberg.github.io/mlcourse/Archive/2019/Homework/hw1.zip"}
+-
+  Label: Homework 1
+  Description: Error Decomposition and Polynomial Regression
+  Due: 2021-02-10
+  PDF: {hw1.pdf: "https://github.com/nyu-ds1003/mlcourse/blob/master/assignments/hw1/hw1.pdf"}
+  ZIP: {hw1.zip: "https://github.com/nyu-ds1003/mlcourse/blob/master/assignments/hw1/hw1.zip"}
 # -
 #   Label: Homework 2
 #   Description: TODO 
