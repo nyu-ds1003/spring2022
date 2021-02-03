@@ -5,10 +5,10 @@
       Label: Lecture (HH)
       Topics:
           - {"Course logistics and overview": "https://nyu-ds1003.github.io/mlcourse/lectures/lec01/01a.overview.pdf"}
-          - {"Introduction to machine learning": "https://nyu-ds1003.github.io/mlcourse/lectures/lec01/01b.intro-machine-learning.pdf"} 
+          - {"Introduction to machine learning": "https://nyu-ds1003.github.io/mlcourse/lectures/lec01/01b.intro-machine-learning.pdf"}
           - {"Introduction to statistical learning theory": "https://nyu-ds1003.github.io/mlcourse/lectures/lec01/01c.intro-stat-learning-theory.pdf"}
       Materials:
-          - {"Conditional expectations": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/conditional-expectations.pdf"} 
+          - {"Conditional expectations": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/conditional-expectations.pdf"}
       References:
 #        - {"Bottou's SGD Tricks": "http://leon.bottou.org/papers/bottou-tricks-2012"}
     2021-02-03:
@@ -24,13 +24,14 @@
           #- {Directional Derivatives and Approximation (Short): "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/directional-derivative.pdf"}
       References:
        - {Barnes "Matrix Differentiation" notes: "http://www.atmos.washington.edu/~dennis/MatrixCalculus.pdf"}
+       - {Matrix Cookbook: "https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf"}
 -
   Title: Week 2
   Events:
     2021-02-09:
       Label: Lecture (HH)
       Topics:
-       - Loss functions 
+       - Loss functions
        - Stochastic gradient descent
        - Regression and classification
        - Perceptron
@@ -150,7 +151,7 @@
     2021-03-10:
       Label: Lab
       Topics:
-       - MLE review and exercise 
+       - MLE review and exercise
        - Multivariate Gaussians
       Materials:
 -
@@ -180,11 +181,11 @@
     2021-03-23:
       Label: Midterm Exam
       Topics:
-          - Cover material up to week 6 
+          - Cover material up to week 6
     2021-03-24:
       Label: Lab
       Topics:
-       - Bayesian linear regression 
+       - Bayesian linear regression
 -
   Title: Week 9
   Events:
@@ -254,8 +255,8 @@
     2021-04-14:
       Label: Lab
       Topics:
-       - Review on gradient boosting 
-       - (demo) L2 boosting  
+       - Review on gradient boosting
+       - (demo) L2 boosting
        - XGBoost
       Materials:
          - {"gbm.py": "https://davidrosenberg.github.io/mlcourse/Archive/2017/Labs/gbm.py"}
@@ -317,14 +318,13 @@
     2021-05-04:
       Label: Lecture (HH)
       Topics:
-       - Course review 
+       - Course review
        - Advice on practical ML
-       - Trustworthy ML 
+       - Trustworthy ML
       Materials:
       References:
     2018-05-05:
-      Label: Lab 
+      Label: Lab
       Topics:
        - Review for Final
       Materials:
-
