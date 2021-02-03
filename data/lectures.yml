@@ -8,6 +8,7 @@
           - {"Introduction to machine learning": "https://nyu-ds1003.github.io/mlcourse/lectures/lec01/01b.intro-machine-learning.pdf"} 
           - {"Introduction to statistical learning theory": "https://nyu-ds1003.github.io/mlcourse/lectures/lec01/01c.intro-stat-learning-theory.pdf"}
       Materials:
+          - {"Discussion notes": "https://nyu-ds1003.github.io/mlcourse/lectures/lec01/discussion-notes.pdf"}
           - {"Conditional expectations": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/conditional-expectations.pdf"} 
       References:
 #        - {"Bottou's SGD Tricks": "http://leon.bottou.org/papers/bottou-tricks-2012"}
