@@ -8,3 +8,5 @@ index.html
 
 # Build site
 out
+
+.ipynb_checkpoints

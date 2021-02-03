@@ -15,11 +15,11 @@
     2021-02-03:
       Label: Lab
       Topics:
-       - Gradients and directional derivatives
+       - {Gradients and directional derivatives: "https://nyu-ds1003.github.io/mlcourse/labs/01-20210203-gradient/01-20210203-gradient.pdf"}
       Materials:
           #- {STL & Excess Risk Decomposition Demo Questions (ipynb) : "https://davidrosenberg.github.io/mlcourse/Archive/2019/Labs/2-STL_Lab-Questions.ipynb"}
           #- {STL & Excess Risk Decomposition Demo Answers (ipynb) : "https://davidrosenberg.github.io/mlcourse/Archive/2019/Labs/2-STL_Lab-Answers.ipynb"}
-          #- {Gradients and Directional Derivatives: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Labs/1-gradients-Notes_sol.pdf"}
+          - {Gradients and Directional Derivatives: "https://nyu-ds1003.github.io/mlcourse/labs/01-20210203-gradient/01-20210203-gradient.pdf"}
           #- {Gradient Concept Check Questions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/1-Lab-Check.pdf"}
           #- {Gradient Concept Check Solutions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/1-Lab-Check_sol.pdf"}
           #- {Directional Derivatives and Approximation (Short): "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/directional-derivative.pdf"}
