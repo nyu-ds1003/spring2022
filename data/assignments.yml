@@ -5,14 +5,18 @@ Submit link: "https://gradescope.com"
   Label: Homework 0
   Description: Typesetting your homework
   Due: 2000-01-01
-  PDF: {hw0.pdf: "https://github.com/nyu-ds1003/mlcourse/blob/master/assignments/hw0/hw0_latex.pdf"}
-  ZIP: {hw0.zip: "https://github.com/nyu-ds1003/mlcourse/blob/master/assignments/hw0/hw0.zip"}
+#   PDF: {hw0.pdf: "https://github.com/nyu-ds1003/mlcourse/blob/master/assignments/hw0/hw0_latex.pdf"}
+#   ZIP: {hw0.zip: "https://github.com/nyu-ds1003/mlcourse/blob/master/assignments/hw0/hw0.zip"}
+  PDF: {hw0.pdf: "https://nyu-ds1003.github.io/mlcourse/assignments/hw0/hw0_latex.pdf"}
+  ZIP: {hw0.zip: "https://nyu-ds1003.github.io/mlcourse/assignments/hw0/hw0.zip"}
 -
   Label: Homework 1
   Description: Error Decomposition and Polynomial Regression
   Due: 2021-02-10
-  PDF: {hw1.pdf: "https://github.com/nyu-ds1003/mlcourse/blob/master/assignments/hw1/hw1.pdf"}
-  ZIP: {hw1.zip: "https://github.com/nyu-ds1003/mlcourse/blob/master/assignments/hw1/hw1.zip"}
+#   PDF: {hw1.pdf: "https://github.com/nyu-ds1003/mlcourse/blob/master/assignments/hw1/hw1.pdf"}
+#   ZIP: {hw1.zip: "https://github.com/nyu-ds1003/mlcourse/blob/master/assignments/hw1/hw1.zip"}
+  PDF: {hw1.pdf: "https://nyu-ds1003.github.io/mlcourse/assignments/hw1/hw1.pdf"}
+  ZIP: {hw1.zip: "https://nyu-ds1003.github.io/mlcourse/assignments/hw1/hw1.zip"}
 # -
 #   Label: Homework 2
 #   Description: TODO 
