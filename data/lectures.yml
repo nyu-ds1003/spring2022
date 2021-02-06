@@ -11,7 +11,6 @@
           - {"Discussion notes": "https://nyu-ds1003.github.io/mlcourse/lectures/lec01/discussion-notes.pdf"}
           - {"Conditional expectations": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/conditional-expectations.pdf"} 
       References:
-#        - {"Bottou's SGD Tricks": "http://leon.bottou.org/papers/bottou-tricks-2012"}
     2021-02-03:
       Label: Lab
       Topics:
@@ -35,14 +34,11 @@
     2021-02-09:
       Label: Lecture (HH)
       Topics:
-       - Loss functions
-       - Stochastic gradient descent
-       - Regression and classification
-       - Perceptron
+          - {"Gradient descent": "https://nyu-ds1003.github.io/mlcourse/lectures/lec02/02a.gradient-descent.pdf"}
+          - {"Stochastic gradient descent": "https://nyu-ds1003.github.io/mlcourse/lectures/lec02/02b.sgd.pdf"}
+          - {"Loss functions": "https://nyu-ds1003.github.io/mlcourse/lectures/lec02/02c.loss-functions.pdf"}
       Materials:
-          #- {Stochastic Gradient Descent: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/02a.SGD.pdf"}
-          #- {Gradient Descent: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/02b.gradient-descent.pdf"}
-          #- {L1 and L2 regularization: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/02c.L1L2-regularization.pdf"}
+        - {"Bottou's SGD Tricks": "http://leon.bottou.org/papers/bottou-tricks-2012"}
           #Notes:
           # - {PreLecture Concept Check Questions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/2-PreLec-Check.pdf"}
           # - {PreLecture Concept Check Solutions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/2-PreLec-Check_sol.pdf"}
@@ -53,8 +49,8 @@
     2021-02-10:
       Label: Lab
       Topics:
-       - Review of linear regression
-       - SGD tricks and debugging
+       - (Review of linear regression)
+       - SGD for logistic regression 
        - (demo) GD and SGD
        # - {Grouping and Elastic Net: "https://davidrosenberg.github.io/mlcourse/Archive/2017/Lectures/3a.elastic-net.pdf"}
       Materials:
