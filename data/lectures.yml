@@ -38,6 +38,8 @@
           - {"Stochastic gradient descent": "https://nyu-ds1003.github.io/mlcourse/lectures/lec02/02b.sgd.pdf"}
           - {"Loss functions": "https://nyu-ds1003.github.io/mlcourse/lectures/lec02/02c.loss-functions.pdf"}
       Materials:
+        - {"Discussion notes": "https://nyu-ds1003.github.io/mlcourse/lectures/lec02/discussion-notes.pdf"}
+        - {"Board": "https://nyu-ds1003.github.io/mlcourse/lectures/lec02/board.pdf"}
         - {"Bottou's SGD Tricks": "http://leon.bottou.org/papers/bottou-tricks-2012"}
           #Notes:
           # - {PreLecture Concept Check Questions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/2-PreLec-Check.pdf"}
