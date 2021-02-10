@@ -17,12 +17,14 @@ Submit link: "https://gradescope.com"
 #   ZIP: {hw1.zip: "https://github.com/nyu-ds1003/mlcourse/blob/master/assignments/hw1/hw1.zip"}
   PDF: {hw1.pdf: "https://nyu-ds1003.github.io/mlcourse/assignments/hw1/hw1.pdf"}
   ZIP: {hw1.zip: "https://nyu-ds1003.github.io/mlcourse/assignments/hw1/hw1.zip"}
-# -
-#   Label: Homework 2
-#   Description: TODO 
-#   Due: 2019-02-18
-#   PDF: {hw2.pdf: " https://davidrosenberg.github.io/mlcourse/Archive/2019/Homework/hw2.pdf"}
-#   ZIP: {hw2.zip: " https://davidrosenberg.github.io/mlcourse/Archive/2019/Homework/hw2.zip"}
+-
+  Label: Homework 2
+  Description: Gradient Descent and Regularization
+  Due: 2021-02-22
+#   PDF: {hw1.pdf: "https://github.com/nyu-ds1003/mlcourse/blob/master/assignments/hw1/hw1.pdf"}
+#   ZIP: {hw1.zip: "https://github.com/nyu-ds1003/mlcourse/blob/master/assignments/hw1/hw1.zip"}
+  PDF: {hw2.pdf: "https://nyu-ds1003.github.io/mlcourse/assignments/hw2/hw2.pdf"}
+  ZIP: {hw2.zip: "https://nyu-ds1003.github.io/mlcourse/assignments/hw2/hw2.zip"}
 # -
 #   Label: Homework 3
 #   Description: TODO 
