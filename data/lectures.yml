@@ -49,9 +49,11 @@
     2021-02-10:
       Label: Lab
       Topics:
-       - (Review of linear regression)
-       - SGD for logistic regression 
-       - (demo) GD and SGD
+      #- (Review of linear regression)
+      #- SGD for logistic regression 
+        - {"GD and SGD": "https://github.com/nyu-ds1003/mlcourse/blob/master/labs/02-20210210-gd%26sgd/02-20210210-gd%26sgd.pdf"}
+        - {"(Notebook) GD and Adaptive Learning Rate": "https://github.com/nyu-ds1003/mlcourse/blob/master/labs/02-20210210-gd%26sgd/02-20210210-gd-armijo-part01.ipynb" }
+        - {"(Notebook) Full-batch Mini-batch and Stochastic Gradient Descent": "https://github.com/nyu-ds1003/mlcourse/blob/master/labs/02-20210210-gd%26sgd/02-20210210-gd%26sgd-part02.ipynb"} 
        # - {Grouping and Elastic Net: "https://davidrosenberg.github.io/mlcourse/Archive/2017/Lectures/3a.elastic-net.pdf"}
       Materials:
       References:
