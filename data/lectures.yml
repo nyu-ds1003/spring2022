@@ -85,8 +85,8 @@
     2021-02-17:
       Label: Lab
       Topics:
-       - Elastic net and feature correlation
-       - (demo) Lasso and elastic net
+       - {Elastic net and feature correlation: "https://nyu-ds1003.github.io/mlcourse/labs/03-20210217-regularization/03-20210217-regularization.pdf"}
+       - {(demo) Lasso and elastic net: "https://nyu-ds1003.github.io/mlcourse/labs/03-20210217-regularization/03-20210217-lasso.ipynb"}
        - {Pre-lecture warmup for SVM and Lagrangians: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/svm-lecture-prep.pdf"}
        # - {Grouping and Elastic Net: "https://davidrosenberg.github.io/mlcourse/Archive/2017/Lectures/3a.elastic-net.pdf"}
       Materials:
