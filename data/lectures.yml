@@ -89,6 +89,7 @@
        # - {Grouping and Elastic Net: "https://davidrosenberg.github.io/mlcourse/Archive/2017/Lectures/3a.elastic-net.pdf"}
       Materials:
        - {Rosenberg's notes on convex optimization: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/convex-optimization.pdf"}
+       - {Convex optimization and Lagrangian duality tutorial slides: "https://nyu-ds1003.github.io/mlcourse/lectures/lec04/04.0.convex-optimization.pdf"}
       References:
         # - "HTF 3.4"
 -
