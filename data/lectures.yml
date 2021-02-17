@@ -66,9 +66,11 @@
     2021-02-16:
       Label: Lecture (HH)
       Topics:
-       - Bias-variance trade-off
-       - Regularization and model selection
+          - {"Feature selection": "https://nyu-ds1003.github.io/mlcourse/lectures/lec03/03a.features-selection.pdf"} 
+          - {"Regularization": "https://nyu-ds1003.github.io/mlcourse/lectures/lec03/03b.regularization.pdf"} 
+          - {"Lasso Optimization": "https://nyu-ds1003.github.io/mlcourse/lectures/lec03/03c.lasso-optimization.pdf"} 
       Materials:
+          - {"Discussion": "https://nyu-ds1003.github.io/mlcourse/lectures/lec03/discussion-annotated.pdf"}
           #- {Stochastic Gradient Descent: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/02a.SGD.pdf"}
           #- {Gradient Descent: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/02b.gradient-descent.pdf"}
           #- {L1 and L2 regularization: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/02c.L1L2-regularization.pdf"}
@@ -79,7 +81,7 @@
           # - {'Excess Risk, Stochastic Gradient Descent and L1/L2 Questions': "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/2-Lec-Check.pdf"}
           # - {'Excess Risk, Stochastic Gradient Descent and L1/L2 Solutions': "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/2-Lec-Check_sol.pdf"}
       References:
-        - "HTF Ch. 3"
+        - "HTF Ch. 3.3-3.4"
     2021-02-17:
       Label: Lab
       Topics:
