@@ -110,8 +110,9 @@
     2021-02-24:
       Label: Lab
       Topics:
+          - {Geometric Derivation of SVMs and Complementary slackness: "https://nyu-ds1003.github.io/mlcourse/labs/04-20210224-SVM/04-20210224-SVM.pdf"}
+          - {(demo) SVM MNIST: "https://nyu-ds1003.github.io/mlcourse/labs/04-20210224-SVM/04-20210224-SVM-MNIST.ipynb"}
       Materials:
-          #- {Geometric Derivation of SVMs: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Labs/3-SVM-Notes_sol.pdf"}
           #- {Uniqueness of SVM Solution: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Labs/UniquenessOfSVM.pdf"}
 #        - {Simplest Example: "https://github.com/davidrosenberg/mlcourse/blob/gh-pages/Notebooks/Features/simple_feature_transformations.ipynb"}
 #        - {Ingesting text with BOW: "https://github.com/davidrosenberg/mlcourse/blob/gh-pages/Notebooks/Features/test_BOW.ipynb"}
