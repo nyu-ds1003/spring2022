@@ -100,9 +100,9 @@
     2021-02-23:
       Label: Lecture (HH)
       Topics:
-          - {"Support Vector Machines": "https://nyu-ds1003.github.io/mlcourse/lectures/lec04/04a.objective.pdf"}
-          - {"Subgradient Descent": "https://nyu-ds1003.github.io/mlcourse/lectures/lec04/04b.subgradient.pdf"}
-          - {"SVM Dual": "https://nyu-ds1003.github.io/mlcourse/lectures/lec04/04c.dual.pdf"}
+          - {"Support Vector Machines": "https://nyu-ds1003.github.io/mlcourse/lectures/lec04/04a.objective-annotated.pdf"}
+          - {"Subgradient Descent": "https://nyu-ds1003.github.io/mlcourse/lectures/lec04/04b.subgradient-annotated.pdf"}
+          - {"SVM Dual": "https://nyu-ds1003.github.io/mlcourse/lectures/lec04/04c.dual-annotated.pdf"}
       Materials:
        - {Geometric Derivation of SVMs: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Labs/3-SVM-Slides.pdf"}
        - {SVM Insights from Duality: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/SVM-main-points.pdf"}
