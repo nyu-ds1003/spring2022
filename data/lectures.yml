@@ -34,9 +34,9 @@
     2021-02-09:
       Label: Lecture (HH)
       Topics:
-          - {"Gradient descent": "https://nyu-ds1003.github.io/mlcourse/lectures/lec02/02a.gradient-descent.pdf"}
-          - {"Stochastic gradient descent": "https://nyu-ds1003.github.io/mlcourse/lectures/lec02/02b.sgd.pdf"}
-          - {"Loss functions": "https://nyu-ds1003.github.io/mlcourse/lectures/lec02/02c.loss-functions.pdf"}
+          - {"Gradient descent": "https://nyu-ds1003.github.io/mlcourse/lectures/lec02/02a.gradient-descent-annotated.pdf"}
+          - {"Stochastic gradient descent": "https://nyu-ds1003.github.io/mlcourse/lectures/lec02/02b.sgd-annotated.pdf"}
+          - {"Loss functions": "https://nyu-ds1003.github.io/mlcourse/lectures/lec02/02c.loss-functions-annotated.pdf"}
       Materials:
         - {"Discussion notes": "https://nyu-ds1003.github.io/mlcourse/lectures/lec02/discussion-notes.pdf"}
         - {"Board": "https://nyu-ds1003.github.io/mlcourse/lectures/lec02/board.pdf"}
