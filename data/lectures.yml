@@ -126,9 +126,11 @@
     2021-03-02:
       Label: Lecture (HH)
       Topics:
-        - Kernel SVMs
-        - The Representer Theorem and Kernelization
+        - {"Feature Maps": "https://nyu-ds1003.github.io/mlcourse/lectures/lec05/05a.feature-maps-annotated.pdf"} 
+        - {"Kernel Trick": "https://nyu-ds1003.github.io/mlcourse/lectures/lec05/05b.kernel-trick-annotated.pdf"} 
+        - {"Representer Theorem": "https://nyu-ds1003.github.io/mlcourse/lectures/lec05/05c.representer-theorem-annotated.pdf"} 
       Materials:
+        - {"Discussion": "https://nyu-ds1003.github.io/mlcourse/lectures/lec05/discussion-annotated.pdf"} 
           #- {The Representer Theorem and Kernelization: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/05a.representer-theorem.pdf"}
           #- {Kernel Concept Check Questions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/5-Lab-Check.pdf"}
           #- {Kernel Concept Check Solutions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/5-Lab-Check_sol.pdf"}
