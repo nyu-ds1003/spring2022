@@ -140,6 +140,8 @@
     2021-03-03:
       Label: Lab
       Topics:
+        - {Kernels: "https://nyu-ds1003.github.io/mlcourse/labs/05-20210303-Kernels/5-Kernel_slides.pdf"}
+        - {(demo) SVM MNIST RBF: "https://nyu-ds1003.github.io/mlcourse/labs/05-20210303-Kernels/demo_mnist_RBF.ipynb"}
       Materials:
       References:
 -
