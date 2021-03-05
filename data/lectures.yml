@@ -150,8 +150,8 @@
     2021-03-09:
       Label: Lecture (MG)
       Topics:
-          - Maximum likelihood estimation
-          - Probabilisitc models
+          - {"Maximum Likelihood": "https://nyu-ds1003.github.io/mlcourse/lectures/lec06/06a.MLE.pdf"} 
+          - {"Conditional Probability Models":"https://nyu-ds1003.github.io/mlcourse/lectures/lec06/06b.conditional-probability-models.pdf"}
       Materials:
           #- {CitySense: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/05b.citysense.pdf"}
           #- {Maximum Likelihood: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/05c.MLE.pdf"}
