@@ -9,7 +9,7 @@
           - {"Introduction to statistical learning theory": "https://nyu-ds1003.github.io/mlcourse/lectures/lec01/01c.intro-stat-learning-theory.pdf"}
       Materials:
           - {"Discussion notes": "https://nyu-ds1003.github.io/mlcourse/lectures/lec01/discussion-notes.pdf"}
-          - {"Conditional expectations": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/conditional-expectations.pdf"} 
+          - {"Conditional expectations": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/conditional-expectations.pdf"}
       References:
     2021-02-03:
       Label: Lab
@@ -52,10 +52,10 @@
       Label: Lab
       Topics:
       #- (Review of linear regression)
-      #- SGD for logistic regression 
+      #- SGD for logistic regression
         - {"GD and SGD": "https://github.com/nyu-ds1003/mlcourse/blob/master/labs/02-20210210-gd%26sgd/02-20210210-gd%26sgd.pdf"}
         - {"(Notebook) GD and Adaptive Learning Rate": "https://github.com/nyu-ds1003/mlcourse/blob/master/labs/02-20210210-gd%26sgd/02-20210210-gd-armijo-part01.ipynb" }
-        - {"(Notebook) Full-batch Mini-batch and Stochastic Gradient Descent": "https://github.com/nyu-ds1003/mlcourse/blob/master/labs/02-20210210-gd%26sgd/02-20210210-gd%26sgd-part02.ipynb"} 
+        - {"(Notebook) Full-batch Mini-batch and Stochastic Gradient Descent": "https://github.com/nyu-ds1003/mlcourse/blob/master/labs/02-20210210-gd%26sgd/02-20210210-gd%26sgd-part02.ipynb"}
        # - {Grouping and Elastic Net: "https://davidrosenberg.github.io/mlcourse/Archive/2017/Lectures/3a.elastic-net.pdf"}
       Materials:
       References:
@@ -66,9 +66,9 @@
     2021-02-16:
       Label: Lecture (HH)
       Topics:
-          - {"Feature selection": "https://nyu-ds1003.github.io/mlcourse/lectures/lec03/03a.feature-selection.pdf"} 
-          - {"Regularization": "https://nyu-ds1003.github.io/mlcourse/lectures/lec03/03b.regularization.pdf"} 
-          - {"Lasso Optimization": "https://nyu-ds1003.github.io/mlcourse/lectures/lec03/03c.lasso-optimization.pdf"} 
+          - {"Feature selection": "https://nyu-ds1003.github.io/mlcourse/lectures/lec03/03a.feature-selection.pdf"}
+          - {"Regularization": "https://nyu-ds1003.github.io/mlcourse/lectures/lec03/03b.regularization.pdf"}
+          - {"Lasso Optimization": "https://nyu-ds1003.github.io/mlcourse/lectures/lec03/03c.lasso-optimization.pdf"}
       Materials:
           - {"Discussion": "https://nyu-ds1003.github.io/mlcourse/lectures/lec03/discussion-annotated.pdf"}
           #- {Stochastic Gradient Descent: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/02a.SGD.pdf"}
@@ -126,11 +126,11 @@
     2021-03-02:
       Label: Lecture (HH)
       Topics:
-        - {"Feature Maps": "https://nyu-ds1003.github.io/mlcourse/lectures/lec05/05a.feature-maps-annotated.pdf"} 
-        - {"Kernel Trick": "https://nyu-ds1003.github.io/mlcourse/lectures/lec05/05b.kernel-trick-annotated.pdf"} 
-        - {"Representer Theorem": "https://nyu-ds1003.github.io/mlcourse/lectures/lec05/05c.representer-theorem-annotated.pdf"} 
+        - {"Feature Maps": "https://nyu-ds1003.github.io/mlcourse/lectures/lec05/05a.feature-maps-annotated.pdf"}
+        - {"Kernel Trick": "https://nyu-ds1003.github.io/mlcourse/lectures/lec05/05b.kernel-trick-annotated.pdf"}
+        - {"Representer Theorem": "https://nyu-ds1003.github.io/mlcourse/lectures/lec05/05c.representer-theorem-annotated.pdf"}
       Materials:
-        - {"Discussion": "https://nyu-ds1003.github.io/mlcourse/lectures/lec05/discussion-annotated.pdf"} 
+        - {"Discussion": "https://nyu-ds1003.github.io/mlcourse/lectures/lec05/discussion-annotated.pdf"}
           #- {The Representer Theorem and Kernelization: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/05a.representer-theorem.pdf"}
           #- {Kernel Concept Check Questions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/5-Lab-Check.pdf"}
           #- {Kernel Concept Check Solutions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/5-Lab-Check_sol.pdf"}
@@ -150,7 +150,7 @@
     2021-03-09:
       Label: Lecture (MG)
       Topics:
-          - {"Maximum Likelihood": "https://nyu-ds1003.github.io/mlcourse/lectures/lec06/06a.MLE.pdf"} 
+          - {"Maximum Likelihood": "https://nyu-ds1003.github.io/mlcourse/lectures/lec06/06a.MLE.pdf"}
           - {"Conditional Probability Models":"https://nyu-ds1003.github.io/mlcourse/lectures/lec06/06b.conditional-probability-models.pdf"}
       Materials:
           #- {CitySense: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/05b.citysense.pdf"}
@@ -162,9 +162,10 @@
     2021-03-10:
       Label: Lab
       Topics:
-       - MLE review and exercise
-       - Multivariate Gaussians
+       - {"MLE review and exercise": "https://nyu-ds1003.github.io/mlcourse/labs/06-20210310-MLE/06-20210310-MLE.pdf"}
       Materials:
+       - {"Spring 2020 Midterm": "https://nyu-ds1003.github.io/mlcourse/exams/sp20/midterm.pdf"}
+       - {"Solution": "https://nyu-ds1003.github.io/mlcourse/exams/sp20/midterm_solutions.pdf"}
 -
   Title: Week 7
   Events:
