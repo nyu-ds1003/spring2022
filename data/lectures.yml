@@ -172,7 +172,8 @@
     2021-03-16:
       Label: Lecture (MG)
       Topics:
-          - Bayesian methods
+        - {"Bayesian Methods": "https://nyu-ds1003.github.io/mlcourse/lectures/lec07/07a.bayesian-methods.pdf"}
+        - {"Bayesian Regression": "https://nyu-ds1003.github.io/mlcourse/lectures/lec07/07b.bayesian-regression.pdf"} 
       Materials:
           #- {"Proportionality Review": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/proportionality.pdf"}
           #- {"Thompson Sampling for Bernoulli Bandits [Optional]": "https://davidrosenberg.github.io/mlcourse/in-prep/thompson-sampling-bernoulli.pdf"}
