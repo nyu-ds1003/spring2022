@@ -175,9 +175,10 @@
         - {"Bayesian Methods": "https://nyu-ds1003.github.io/mlcourse/lectures/lec07/07a.bayesian-methods.pdf"}
         - {"Bayesian Regression": "https://nyu-ds1003.github.io/mlcourse/lectures/lec07/07b.bayesian-regression.pdf"} 
       Materials:
+        - {"Discussion slides": "https://github.com/nyu-ds1003/mlcourse/blob/gh-pages/lectures/lec07/07c.bayesian-approaches-dicussion-example.pdf"} 
           #- {"Proportionality Review": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/proportionality.pdf"}
           #- {"Thompson Sampling for Bernoulli Bandits [Optional]": "https://davidrosenberg.github.io/mlcourse/in-prep/thompson-sampling-bernoulli.pdf"}
-          #- {"Multivariate Gaussians (draft)": "https://davidrosenberg.github.io/mlcourse/in-prep/multivariate-gaussian.pdf"}
+        - {"Multivariate Gaussians (draft from D. Rosenberg)": "https://nyu-ds1003.github.io/mlcourse/lectures/lec07/multivariate-gaussian.pdf"}
           #- {"Bayesian Linear Regression (draft)": "https://davidrosenberg.github.io/mlcourse/in-prep/bayesian-regression.pdf"}
           #- {Bayesian Methods and Regression Questions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/11-Lec-Check.pdf"}
           #- {Bayesian Methods and Regression Solutions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/11-Lec-Check_sol.pdf"}
