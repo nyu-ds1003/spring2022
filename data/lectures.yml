@@ -189,6 +189,8 @@
       Label: Lab
       Topics:
        - {"Review for Midterm": "https://nyu-ds1003.github.io/mlcourse/labs/07-20210317-midterm-review/07-20210317-midterm-review.pdf"}
+      Materials:
+       - {"Spring 2019 Midterm Solution": "https://nyu-ds1003.github.io/mlcourse/exams/sp19/1003-Spring2019-Midterm-Solution.pdf"}
 -
   Title: Week 8
   Events:
