@@ -211,9 +211,9 @@
     2021-03-30:
       Label: Lecture (HH)
       Topics:
-       - Multiclass classification
-       - Structured prediction
-       # - {'Classification and Regression Trees': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/10a.trees.pdf"}
+       - {"Reduction to Binary Classification": "https://nyu-ds1003.github.io/mlcourse/lectures/lec09/09a.reduction.pdf"}
+       - {"Linear Multiclass Predictors": "https://nyu-ds1003.github.io/mlcourse/lectures/lec09/09b.multiclass-loss.pdf"}
+       - {"Structured Prediction": "https://nyu-ds1003.github.io/mlcourse/lectures/lec09/09c.structured-prediction.pdf"}
       Materials:
           #- {"Multiclass Questions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/7-Lec-Check.pdf"}
           #- {"Multiclass Solutions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/7-Lec-Check_sol.pdf"}
