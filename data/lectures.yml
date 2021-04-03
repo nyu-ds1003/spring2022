@@ -211,9 +211,9 @@
     2021-03-30:
       Label: Lecture (HH)
       Topics:
-       - {"Reduction to Binary Classification": "https://nyu-ds1003.github.io/mlcourse/lectures/lec09/09a.reduction.pdf"}
-       - {"Linear Multiclass Predictors": "https://nyu-ds1003.github.io/mlcourse/lectures/lec09/09b.multiclass-loss.pdf"}
-       - {"Structured Prediction": "https://nyu-ds1003.github.io/mlcourse/lectures/lec09/09c.structured-prediction.pdf"}
+       - {"Reduction to Binary Classification": "https://nyu-ds1003.github.io/mlcourse/lectures/lec09/09a.reduction-annotated.pdf"}
+       - {"Linear Multiclass Predictors": "https://nyu-ds1003.github.io/mlcourse/lectures/lec09/09b.multiclass-loss-annotated.pdf"}
+       - {"Structured Prediction": "https://nyu-ds1003.github.io/mlcourse/lectures/lec09/09c.structured-prediction-annotated.pdf"}
       Materials:
           #- {"Multiclass Questions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/7-Lec-Check.pdf"}
           #- {"Multiclass Solutions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/7-Lec-Check_sol.pdf"}
@@ -246,9 +246,9 @@
     2021-04-06:
       Label: Lecture (HH)
       Topics:
-          - Classification and regression trees
-          - Bagging and random forests
-          - Adaboost
+          - {"Decision Trees": "https://nyu-ds1003.github.io/mlcourse/lectures/lec10/10a.trees-annotated.pdf"} 
+          - {"Random Forests": "https://nyu-ds1003.github.io/mlcourse/lectures/lec10/10b.random-forest-annotated.pdf"} 
+          - {"Adaboost": "https://nyu-ds1003.github.io/mlcourse/lectures/lec10/10c.adaboost-annotated.pdf"} 
       Material:
         - {'Intro to the Bootstrap': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/11a.bootstrap.pdf"}
       References:
