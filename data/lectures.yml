@@ -259,9 +259,11 @@
       Topics:
           - {"Questions on Trees, Bootstrap, Bagging, Random Forest and Adaboost": "https://github.com/nyu-ds1003/mlcourse/blob/gh-pages/labs/10-20210407-TreesBoosting/10-20210407-TreesBoosting.pdf"}
       Materials:
+       # - {"Boosting Questions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/boosting-Lec-Check.pdf"}
+       # - {"Boosting Solutions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/boosting-Lec-Check_sol.pdf"}
       References:
-#        - "JWHT 5.2 (Bootstrap)"
-#        - "HTF 7.11 (Bootstrap)"
+       - "JWHT 5.2 (Bootstrap)"
+       - "HTF 7.11 (Bootstrap)"
 -
   Title: Week 11
   Events:
@@ -272,26 +274,26 @@
         - Gradient boosting
       Materials:
       References:
-        - {A Conversation with Jerry Friedman: "https://arxiv.org/pdf/1507.08502.pdf"}
+       - {A Conversation with Jerry Friedman: "https://arxiv.org/pdf/1507.08502.pdf"}
+       - {Friedman's GBM Paper: http://statweb.stanford.edu/~jhf/ftp/trebst.pdf}
+       - {Ridgeway's GBM Guide: http://www.saedsayad.com/docs/gbm2.pdf}
+       - {XGBoost Paper: http://arxiv.org/abs/1603.02754}
+       - {"Bühlmann and Hothorn's Boosting Paper": https://projecteuclid.org/euclid.ss/1207580163}
     2021-04-14:
       Label: Lab
       Topics:
-       - Review on gradient boosting
-       - (demo) L2 boosting
-       - XGBoost
+          - {"gbm.py": "https://davidrosenberg.github.io/mlcourse/Archive/2017/Labs/gbm.py"}
+          - {"Gradient Boosting": "https://davidrosenberg.github.io/mlcourse/Archive/2017/Labs/9-GBM-Notes.pdf"}
+          - {"Exponential Distribution Gradient Boosting": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/conditional-exponential-distributions.pdf"}
+          - {"Poisson Gradient Boosting": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/poisson-gradient-boosting.pdf"}
+          - {'Gradient Boosting Lab': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Labs/GBM_Lecture.pdf"}
+       # - Review on gradient boosting
+       # - (demo) L2 boosting
+       # - XGBoost
       Materials:
-         - {"gbm.py": "https://davidrosenberg.github.io/mlcourse/Archive/2017/Labs/gbm.py"}
-         - {"Gradient Boosting": "https://davidrosenberg.github.io/mlcourse/Archive/2017/Labs/9-GBM-Notes.pdf"}
-         - {"Exponential Distribution Gradient Boosting": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/conditional-exponential-distributions.pdf"}
-         - {"Poisson Gradient Boosting": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/poisson-gradient-boosting.pdf"}
-         - {'Gradient Boosting Lab': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Labs/GBM_Lecture.pdf"}
-#        - {"Boosting Questions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/boosting-Lec-Check.pdf"}
-#        - {"Boosting Solutions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/boosting-Lec-Check_sol.pdf"}
+
       References:
-#        - {Friedman's GBM Paper: http://statweb.stanford.edu/~jhf/ftp/trebst.pdf}
-#        - {Ridgeway's GBM Guide: http://www.saedsayad.com/docs/gbm2.pdf}
-#        - {XGBoost Paper: http://arxiv.org/abs/1603.02754}
-#        - {"Bühlmann and Hothorn's Boosting Paper": https://projecteuclid.org/euclid.ss/1207580163}
+
 -
   Title: Week 12
   Events:
