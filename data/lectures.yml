@@ -301,6 +301,7 @@
         - {"Feature Learning": "https://nyu-ds1003.github.io/mlcourse/lectures/lec12/12a.feature-learning.pdf"}
         - {"Backpropagation": "https://nyu-ds1003.github.io/mlcourse/lectures/lec12/12b.backpropagation-annotated.pdf"}
       Materials:
+        - {"Discussion": "https://nyu-ds1003.github.io/mlcourse/lectures/lec12/discussion.pdf"}
       References:
         - {'Yes you should understand backprop (Karpathy)': "https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b"}
         - {'Challenges with backprop (Karpathy Lecture)': "https://youtu.be/gYpoJMlgyXA?t=13m44s"}
