@@ -42,18 +42,18 @@ Submit link: "https://gradescope.com"
 -
   Label: Homework 5
   Description:  Multiclass Linear SVM
-  Due: 2019-04-08
+  Due: 2021-04-08
   PDF: {hw5.pdf: "https://nyu-ds1003.github.io/mlcourse/assignments/hw5/hw5.pdf"}
   ZIP: {hw5.zip: "https://nyu-ds1003.github.io/mlcourse/assignments/hw5/hw5.zip"}
 -
   Label: Homework 6
   Description:  Decision Trees and Boosting
-  Due: 2019-04-22
+  Due: 2021-04-22
   PDF: {hw6.pdf: "https://nyu-ds1003.github.io/mlcourse/assignments/hw6/hw6.pdf"}
   ZIP: {hw6.zip: "https://nyu-ds1003.github.io/mlcourse/assignments/hw6/hw6.zip"}
-# -
-#   Label: Homework 7
-#   Description: TODO 
-#   Due: 2019-05-10
-#   PDF: {hw7.pdf: " https://davidrosenberg.github.io/mlcourse/Archive/2019/Homework/hw7.pdf"}
-#   ZIP: {hw7.zip: " https://davidrosenberg.github.io/mlcourse/Archive/2019/Homework/hw7.zip"}
+-
+  Label: Homework 7
+  Description: Computation Graphs, Back-propagation, and Neural Networks 
+  Due: 2021-05-06
+  PDF: {hw7.pdf: "https://nyu-ds1003.github.io/mlcourse/assignments/hw7/hw7.pdf"}
+  ZIP: {hw7.zip: "https://nyu-ds1003.github.io/mlcourse/assignments/hw7/hw7.zip"}
