@@ -319,9 +319,9 @@
       Label: Lecture (HH)
 #      Video: "https://youtu.be/tgCIAft_W24?t=48m48s"
       Topics:
-       - Latent variable models
-       - Gaussian mixture models
-       - Expectiation Maximization
+       - {"k-Means": "https://nyu-ds1003.github.io/mlcourse/lectures/lec13/13a.k-means-annotated.pdf"}
+       - {"Gaussian Mixture Models": "https://nyu-ds1003.github.io/mlcourse/lectures/lec13/13b.gmm-annotated.pdf"}
+       - {"Expectiation Maximization": "https://nyu-ds1003.github.io/mlcourse/lectures/lec13/13c.em-annotated.pdf"}
          #- {'k-Means': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/13a.k-means.pdf"}
 #        - {'Gaussian Mixture Models': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/13b.mixture-models.pdf"}
 #        - {'General EM Algorithm': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/13c.EM-algorithm.pdf"}
