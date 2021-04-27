@@ -336,6 +336,8 @@
     2021-05-01:
       Label: Lab
       Topics:
+        - {"GMM and EM Questions": "https://nyu-ds1003.github.io/mlcourse/labs/13-20210428-GMM/13-20210428-GMM.pdf"}
+        - {"GMM Lab": "https://nyu-ds1003.github.io/mlcourse/labs/13-20210428-GMM/05.12-Gaussian-Mixtures.ipynb"}
 -
   Title: Week 14
   Events:
