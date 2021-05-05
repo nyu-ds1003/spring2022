@@ -246,9 +246,9 @@
     2021-04-06:
       Label: Lecture (HH)
       Topics:
-          - {"Decision Trees": "https://nyu-ds1003.github.io/mlcourse/lectures/lec10/10a.trees-annotated.pdf"} 
-          - {"Random Forests": "https://nyu-ds1003.github.io/mlcourse/lectures/lec10/10b.random-forest-annotated.pdf"} 
-          - {"Adaboost": "https://nyu-ds1003.github.io/mlcourse/lectures/lec10/10c.adaboost-annotated.pdf"} 
+          - {"Decision Trees": "https://nyu-ds1003.github.io/mlcourse/lectures/lec10/10a.trees-annotated.pdf"}
+          - {"Random Forests": "https://nyu-ds1003.github.io/mlcourse/lectures/lec10/10b.random-forest-annotated.pdf"}
+          - {"Adaboost": "https://nyu-ds1003.github.io/mlcourse/lectures/lec10/10c.adaboost-annotated.pdf"}
       Material:
         - {'Intro to the Bootstrap': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/11a.bootstrap.pdf"}
       References:
@@ -281,9 +281,9 @@
        - {"Bühlmann and Hothorn's Boosting Paper": https://projecteuclid.org/euclid.ss/1207580163}
     2021-04-14:
       Label: Lab
-      Topics: 
-          - {"gbm.py": "https://nyu-ds1003.github.io/mlcourse/labs/11-20210414-GBM/gbm.py"} 
-          - {"Gradient Boosting": "https://nyu-ds1003.github.io/mlcourse/labs/11-20210414-GBM/gbm.pdf"} 
+      Topics:
+          - {"gbm.py": "https://nyu-ds1003.github.io/mlcourse/labs/11-20210414-GBM/gbm.py"}
+          - {"Gradient Boosting": "https://nyu-ds1003.github.io/mlcourse/labs/11-20210414-GBM/gbm.pdf"}
        # - Review on gradient boosting
        # - (demo) L2 boosting
        # - XGBoost
@@ -350,5 +350,7 @@
     2018-05-05:
       Label: Lab
       Topics:
-       - Review for Final
+       - {"Final Review": "https://nyu-ds1003.github.io/mlcourse/labs/14-20210505-Final/14-20210505-Final.pdf"}
       Materials:
+       - {"Spring 2020 Final": "https://nyu-ds1003.github.io/mlcourse/exams/sp20/final.pdf"}
+       - {"Spring 2020 Final Solution": "https://nyu-ds1003.github.io/mlcourse/exams/sp20/final_with_solutions.pdf"}
