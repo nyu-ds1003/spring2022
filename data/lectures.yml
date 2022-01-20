@@ -266,7 +266,7 @@
 -
   Title: Week 11
   Events:
-    2021-04-13:
+    2021-04-12:
       Label: Lecture (HH)
       Topics:
         - {"Forward stagewise additive modeling": ""}
@@ -278,7 +278,7 @@
        - {"Ridgeway's GBM Guide": http://www.saedsayad.com/docs/gbm2.pdf}
        - {"XGBoost Paper": http://arxiv.org/abs/1603.02754}
        - {"Bühlmann and Hothorn's Boosting Paper": https://projecteuclid.org/euclid.ss/1207580163}
-    2021-04-14:
+    2021-04-13:
       Label: Lab
       Topics:
         #- {"gbm.py": ""}
@@ -294,7 +294,7 @@
 -
   Title: Week 12
   Events:
-    2021-04-19:
+    2021-04-18:
       Label: Lecture (TL)
       Topics:
         - {"Feature Learning": ""}
@@ -304,7 +304,7 @@
       References:
         - {'Yes you should understand backprop (Karpathy)': "https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b"}
         - {'Challenges with backprop (Karpathy Lecture)': "https://youtu.be/gYpoJMlgyXA?t=13m44s"}
-    2021-04-20:
+    2021-04-19:
       Label: Lab
       Topics:
         - {"Neural Network Questions": ""}
@@ -341,13 +341,13 @@
 -
   Title: Week 14
   Events:
-    2021-05-04:
+    2021-05-03:
       Label: Lecture (HH, TL)
       Topics:
        - {"Summary and Outlook": ""}
       Materials:
       References:
-    2018-05-05:
+    2018-05-04:
       Label: Lab
       Topics:
        - {"Final Review": ""}
