@@ -29,11 +29,11 @@
   Title: Week 2
   Events:
     2021-02-01:
-      Label: Lecture (TL)
+      Label: {Lecture: "https://nyu-ds1003.github.io/mlcourse/2022/lectures/lec02/02.pdf"} (TL)
       Topics:
-          - {"Gradient descent": ""}
-          - {"Stochastic gradient descent": ""}
-          - {"Loss functions": ""}
+          - Gradient descent
+          - Stochastic gradient descent
+          - Loss functions
       Materials:
         #- {"Discussion notes": "https://nyu-ds1003.github.io/mlcourse/lectures/lec02/discussion-notes.pdf"}
         #- {"Board": "https://nyu-ds1003.github.io/mlcourse/lectures/lec02/board.pdf"}
