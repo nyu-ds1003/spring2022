@@ -84,8 +84,8 @@
     2021-02-09:
       Label: Lab
       Topics:
-       - {Elastic net and feature correlation: ""}
-       - {(demo) Lasso and elastic net: ""}
+       - {Regularization and feature correlation: "https://nyu-ds1003.github.io/mlcourse/2022/labs/Lab2.pdf"}
+      #  - {(demo) Lasso and elastic net: ""}
        - {Pre-lecture warmup for SVM and Lagrangians: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/svm-lecture-prep.pdf"}
        # - {Grouping and Elastic Net: "https://davidrosenberg.github.io/mlcourse/Archive/2017/Lectures/3a.elastic-net.pdf"}
       Materials:
@@ -99,9 +99,9 @@
     2021-02-15:
       Label: Lecture (HH)
       Topics:
-          - {"Support Vector Machines": ""}
-          - {"Subgradient Descent": ""}
-          - {"SVM Dual": ""}
+          # - {"Support Vector Machines": ""}
+          # - {"Subgradient Descent": ""}
+          # - {"SVM Dual": ""}
       Materials:
        - {Geometric Derivation of SVMs: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Labs/3-SVM-Slides.pdf"}
        - {SVM Insights from Duality: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/SVM-main-points.pdf"}
@@ -109,7 +109,7 @@
     2021-02-16:
       Label: Lab
       Topics:
-          - {Geometric Derivation of SVMs and Complementary slackness: ""}
+          # - {Geometric Derivation of SVMs and Complementary slackness: ""}
             #- {(demo) SVM MNIST: ""}
       Materials:
           #- {Uniqueness of SVM Solution: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Labs/UniquenessOfSVM.pdf"}
@@ -125,9 +125,9 @@
     2021-02-22:
       Label: Lecture (HH)
       Topics:
-        - {"Feature Maps": ""}
-        - {"Kernel Trick": ""}
-        - {"Representer Theorem": ""}
+        # - {"Feature Maps": ""}
+        # - {"Kernel Trick": ""}
+        # - {"Representer Theorem": ""}
       Materials:
         #- {"Discussion": "https://nyu-ds1003.github.io/mlcourse/lectures/lec05/discussion-annotated.pdf"}
           #- {The Representer Theorem and Kernelization: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/05a.representer-theorem.pdf"}
@@ -149,8 +149,8 @@
     2021-03-01:
       Label: Lecture (HH)
       Topics:
-          - {"Maximum Likelihood": ""}
-          - {"Conditional Probability Models":""}
+          # - {"Maximum Likelihood": ""}
+          # - {"Conditional Probability Models":""}
       Materials:
           #- {CitySense: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/05b.citysense.pdf"}
           #- {Maximum Likelihood: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/05c.MLE.pdf"}
@@ -161,7 +161,7 @@
     2021-03-02:
       Label: Lab
       Topics:
-       - {"MLE review and exercise": ""}
+      #  - {"MLE review and exercise": ""}
       Materials:
         #- {"Spring 2020 Midterm": "https://nyu-ds1003.github.io/mlcourse/exams/sp20/midterm.pdf"}
         #- {"Spring 2020 Midterm Solution": "https://nyu-ds1003.github.io/mlcourse/exams/sp20/midterm_solutions.pdf"}
@@ -198,8 +198,8 @@
     2021-03-22:
       Label: Lecture (TL) 
       Topics:
-        - {"Bayesian Methods": ""}
-        - {"Bayesian Regression": ""}
+        # - {"Bayesian Methods": ""}
+        # - {"Bayesian Regression": ""}
     2021-03-23:
       Label: Lab
       Topics:
@@ -211,9 +211,9 @@
     2021-03-29:
       Label: Lecture (HH)
       Topics:
-       - {"Reduction to Binary Classification": ""}
-       - {"Linear Multiclass Predictors": ""}
-       - {"Structured Prediction": ""}
+      #  - {"Reduction to Binary Classification": ""}
+      #  - {"Linear Multiclass Predictors": ""}
+      #  - {"Structured Prediction": ""}
       Materials:
           #- {"Multiclass Questions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/7-Lec-Check.pdf"}
           #- {"Multiclass Solutions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/7-Lec-Check_sol.pdf"}
@@ -231,7 +231,7 @@
     2021-03-30:
       Label: Lab
       Topics:
-          - {"Recap: Multiclass & Structured Prediction": ""}
+          # - {"Recap: Multiclass & Structured Prediction": ""}
       Materials:
         #- {"Multiclass Review": ""}
             #- {"(Annotated) Recap: Multiclass & Structured Prediction": "https://nyu-ds1003.github.io/mlcourse/labs/annotated-jk/09-20210331-multiclass-structured-prediction.pdf"}
@@ -247,9 +247,9 @@
     2021-04-05:
       Label: Lecture (TL)
       Topics:
-          - {"Decision Trees": ""}
-          - {"Random Forests": ""}
-          - {"Adaboost": ""}
+          # - {"Decision Trees": ""}
+          # - {"Random Forests": ""}
+          # - {"Adaboost": ""}
       Material:
         - {'Intro to the Bootstrap': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/11a.bootstrap.pdf"}
       References:
@@ -258,7 +258,7 @@
     2021-04-06:
       Label: Lab
       Topics:
-          - {"Questions on Trees, Bootstrap, Bagging, Random Forest and Adaboost": ""}
+          # - {"Questions on Trees, Bootstrap, Bagging, Random Forest and Adaboost": ""}
       Materials:
        # - {"Boosting Questions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/boosting-Lec-Check.pdf"}
        # - {"Boosting Solutions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/boosting-Lec-Check_sol.pdf"}
@@ -271,8 +271,8 @@
     2021-04-12:
       Label: Lecture (HH)
       Topics:
-        - {"Forward stagewise additive modeling": ""}
-        - {"Gradient boosting": ""}
+        # - {"Forward stagewise additive modeling": ""}
+        # - {"Gradient boosting": ""}
       Materials:
       References:
        - {"A Conversation with Jerry Friedman": "https://arxiv.org/pdf/1507.08502.pdf"}
@@ -299,8 +299,8 @@
     2021-04-18:
       Label: Lecture (TL)
       Topics:
-        - {"Feature Learning": ""}
-        - {"Backpropagation": ""}
+        # - {"Feature Learning": ""}
+        # - {"Backpropagation": ""}
       Materials:
         #- {"Discussion": "https://nyu-ds1003.github.io/mlcourse/lectures/lec12/discussion.pdf"}
       References:
@@ -309,8 +309,8 @@
     2021-04-19:
       Label: Lab
       Topics:
-        - {"Neural Network Questions": ""}
-        - {"Computation Graph Lab": ""}
+        # - {"Neural Network Questions": ""}
+        # - {"Computation Graph Lab": ""}
       Materials:
         #- {"(Annotated) Neural Network Questions": "https://nyu-ds1003.github.io/mlcourse/labs/annotated-jk/12-20210421-NeuralNetworks-Annotated-JK-Compressed.pdf"}
       References:
@@ -321,9 +321,9 @@
       Label: Lecture (HH)
 #      Video: "https://youtu.be/tgCIAft_W24?t=48m48s"
       Topics:
-       - {"k-Means": ""}
-       - {"Gaussian Mixture Models": ""}
-       - {"Expectiation Maximization": ""}
+      #  - {"k-Means": ""}
+      #  - {"Gaussian Mixture Models": ""}
+      #  - {"Expectiation Maximization": ""}
          #- {'k-Means': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/13a.k-means.pdf"}
 #        - {'Gaussian Mixture Models': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/13b.mixture-models.pdf"}
 #        - {'General EM Algorithm': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/13c.EM-algorithm.pdf"}
@@ -346,13 +346,13 @@
     2021-05-03:
       Label: Lecture (HH, TL)
       Topics:
-       - {"Summary and Outlook": ""}
+      #  - {"Summary and Outlook": ""}
       Materials:
       References:
     2018-05-04:
       Label: Lab
       Topics:
-       - {"Final Review": ""}
+      #  - {"Final Review": ""}
       Materials:
         #- {"Spring 2020 Final": "https://nyu-ds1003.github.io/mlcourse/exams/sp20/final.pdf"}
         #- {"Spring 2020 Final Solution": "https://nyu-ds1003.github.io/mlcourse/exams/sp20/final_with_solutions.pdf"}
