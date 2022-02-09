@@ -29,11 +29,12 @@
   Title: Week 2
   Events:
     2021-02-01:
-      Label: {Lecture: "https://nyu-ds1003.github.io/mlcourse/2022/lectures/lec02/02.pdf"} (TL)
+      Label: Lecture (TL)
       Topics:
-          - Gradient descent
-          - Stochastic gradient descent
-          - Loss functions
+        - Gradient descent
+        - Stochastic gradient descent
+        - Loss functions
+        - {"Slides": "https://nyu-ds1003.github.io/mlcourse/2022/lectures/lec02/02.pdf"}
       Materials:
         #- {"Discussion notes": "https://nyu-ds1003.github.io/mlcourse/lectures/lec02/discussion-notes.pdf"}
         #- {"Board": "https://nyu-ds1003.github.io/mlcourse/lectures/lec02/board.pdf"}
@@ -63,9 +64,10 @@
     2021-02-08:
       Label: Lecture (TL)
       Topics:
-          - {"Feature selection": ""}
-          - {"Regularization": ""}
-          - {"Lasso Optimization": ""}
+          - Feature selection
+          - Regularization
+          - Lasso Optimization
+          - {"Slides": "https://nyu-ds1003.github.io/mlcourse/2022/lectures/lec03/03.pdf"}
       Materials:
         #- {"Discussion": "https://nyu-ds1003.github.io/mlcourse/lectures/lec03/discussion-annotated.pdf"}
           #- {Stochastic Gradient Descent: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/02a.SGD.pdf"}
