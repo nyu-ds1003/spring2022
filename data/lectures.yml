@@ -110,6 +110,7 @@
     2021-02-16:
       Label: Lab
       Topics:
+       - {Recap of SVMs and Complementary Slackness: "https://nyu-ds1003.github.io/mlcourse/2022/labs/Lab4.pdf"}
           # - {Geometric Derivation of SVMs and Complementary slackness: ""}
             #- {(demo) SVM MNIST: ""}
       Materials:
