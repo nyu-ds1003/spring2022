@@ -166,8 +166,12 @@
       Topics:
       #  - {"MLE review and exercise": ""}
       Materials:
-        #- {"Spring 2020 Midterm": "https://nyu-ds1003.github.io/mlcourse/exams/sp20/midterm.pdf"}
-        #- {"Spring 2020 Midterm Solution": "https://nyu-ds1003.github.io/mlcourse/exams/sp20/midterm_solutions.pdf"}
+        - {"Spring 2021 Midterm": "https://nyu-ds1003.github.io/mlcourse/2022/exams/sp21/midterm_release.pdf"}
+        - {"Spring 2021 Midterm Solution": "https://nyu-ds1003.github.io/mlcourse/2022/exams/sp21/midterm_solutions.pdf"}
+        - {"Spring 2020 Midterm": "https://nyu-ds1003.github.io/mlcourse/2021/exams/sp20/midterm.pdf"}
+        - {"Spring 2020 Midterm Solution": "https://nyu-ds1003.github.io/mlcourse/2021/exams/sp20/midterm_solutions.pdf"}
+        - {"Spring 2019 Midterm": "https://nyu-ds1003.github.io/mlcourse/2021/exams/sp19/1003-Spring2019-Midterm.pdf"}
+        - {"Spring 2019 Midterm Solution": "https://nyu-ds1003.github.io/mlcourse/2021/exams/sp19/1003-Spring2019-Midterm-Solution.pdf"}
 -
   Title: Week 7
   Events:
