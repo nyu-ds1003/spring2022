@@ -152,8 +152,9 @@
     2021-03-01:
       Label: Lecture (HH)
       Topics:
-          # - {"Maximum Likelihood": ""}
-          # - {"Conditional Probability Models":""}
+          - {"Maximum Likelihood Estimation": ""}
+          - {"Generative and discriminative models":""}
+          - {"Slides": "https://nyu-ds1003.github.io/mlcourse/2022/lectures/lec06/06.pdf"}
       Materials:
           #- {CitySense: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/05b.citysense.pdf"}
           #- {Maximum Likelihood: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/05c.MLE.pdf"}
