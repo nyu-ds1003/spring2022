@@ -38,12 +38,12 @@ Submit link: "https://gradescope.com"
   Due: 2021-03-02
   PDF: {hw3.pdf: "https://nyu-ds1003.github.io/mlcourse/2022/assignments/hw3.pdf"}
   ZIP: {hw3.zip: "https://nyu-ds1003.github.io/mlcourse/2022/assignments/hw3.zip"}
-# -
-    #  Label: Homework 4
-    #  Description: Probabilistic models 
-    #  Due: 2021-04-01
-    #  PDF: {hw4.pdf: "https://nyu-ds1003.github.io/mlcourse/assignments/hw4/hw4.pdf"}
-    #  ZIP: {hw4.zip: "https://nyu-ds1003.github.io/mlcourse/assignments/hw4/hw4.zip"}
+-
+  Label: Homework 4
+  Description: Probabilistic models 
+  Due: 2021-03-23
+  PDF: {hw4.pdf: "https://nyu-ds1003.github.io/mlcourse/2022/assignments/hw4.pdf"}
+  ZIP: {hw4.zip: "https://nyu-ds1003.github.io/mlcourse/2022/assignments/hw4.zip"}
     ##   PDF: {hw4.pdf: "https://github.com/nyu-ds1003/mlcourse/blob/gh-pages/assignments/hw4/hw4.pdf"}
     ##   ZIP: {hw4.zip: "https://github.com/nyu-ds1003/mlcourse/blob/gh-pages/assignments/hw4/hw4.zip"}
     #-
