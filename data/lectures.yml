@@ -213,7 +213,7 @@
     2021-03-23:
       Label: Lab
       Topics:
-        #- {"Recap: Bayesian methods": ""}
+        - {"Recap and Questions: Bayesian Methods": "https://nyu-ds1003.github.io/mlcourse/2022/labs/Lab8.pdf"}
         #- {"(demo) Bayesian linear regression": "https://nyu-ds1003.github.io/mlcourse/labs/08-20210324-bayesian/08-20210324-bayes_reg.ipynb"}
 -
   Title: Week 9
