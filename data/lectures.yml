@@ -180,9 +180,6 @@
     2021-03-08:
       Label: Midterm 
       Topics:
-        - {"Bayesian Methods": ""}
-        - {"Bayesian Regression": ""}
-        - {"Slides": "https://nyu-ds1003.github.io/mlcourse/2022/lectures/lec07/lec07.pdf"}
       Materials:
         #- {"Discussion slides": "https://github.com/nyu-ds1003/mlcourse/blob/gh-pages/lectures/lec07/07c.bayesian-approaches-dicussion-example.pdf"}
           #- {"Proportionality Review": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/proportionality.pdf"}
@@ -208,6 +205,9 @@
     2021-03-22:
       Label: Lecture (TL) 
       Topics:
+        - Bayesian Methods
+        - Bayesian Regression
+        - {"Slides": "https://nyu-ds1003.github.io/mlcourse/2022/lectures/lec07/lec07.pdf"}
         # - {"Bayesian Methods": ""}
         # - {"Bayesian Regression": ""}
     2021-03-23:
