@@ -46,10 +46,12 @@ Submit link: "https://gradescope.com"
   ZIP: {hw4.zip: "https://nyu-ds1003.github.io/mlcourse/2022/assignments/hw4.zip"}
     ##   PDF: {hw4.pdf: "https://github.com/nyu-ds1003/mlcourse/blob/gh-pages/assignments/hw4/hw4.pdf"}
     ##   ZIP: {hw4.zip: "https://github.com/nyu-ds1003/mlcourse/blob/gh-pages/assignments/hw4/hw4.zip"}
-    #-
-    #  Label: Homework 5
-    #  Description:  Multiclass Linear SVM
-    #  Due: 2021-04-08
+-
+  Label: Homework 5
+  Description:  Multiclass Linear SVM
+  Due: 2021-04-08
+  PDF: {hw5.pdf: "https://nyu-ds1003.github.io/mlcourse/2022/assignments/hw5.pdf"}
+  ZIP: {hw5.zip: "https://nyu-ds1003.github.io/mlcourse/2022/assignments/hw5.zip"}
     #  PDF: {hw5.pdf: "https://nyu-ds1003.github.io/mlcourse/assignments/hw5/hw5.pdf"}
     #  ZIP: {hw5.zip: "https://nyu-ds1003.github.io/mlcourse/assignments/hw5/hw5.zip"}
     #-
