@@ -242,6 +242,7 @@
     2021-03-30:
       Label: Lab
       Topics:
+        - {"Recap and Questions: Multiclass & Structured Prediction": "https://nyu-ds1003.github.io/mlcourse/2022/labs/Lab9.pdf"}
           # - {"Recap: Multiclass & Structured Prediction": ""}
       Materials:
         #- {"Multiclass Review": ""}
@@ -258,9 +259,10 @@
     2021-04-05:
       Label: Lecture (TL)
       Topics:
-          # - {"Decision Trees": ""}
-          # - {"Random Forests": ""}
-          # - {"Adaboost": ""}
+          - {"Decision Trees": ""}
+          - {"Random Forests": ""}
+          - {"Adaboost": ""}
+          - {"Slides": "https://nyu-ds1003.github.io/mlcourse/2022/lectures/lec10/10.pdf"}
       Material:
         - {'Intro to the Bootstrap': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/11a.bootstrap.pdf"}
       References:
@@ -270,6 +272,7 @@
       Label: Lab
       Topics:
           # - {"Questions on Trees, Bootstrap, Bagging, Random Forest and Adaboost": ""}
+        - {"Trees, Bootstrap, Bagging, Boosting": "https://nyu-ds1003.github.io/mlcourse/2022/labs/Lab10.pdf"}
       Materials:
        # - {"Boosting Questions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/boosting-Lec-Check.pdf"}
        # - {"Boosting Solutions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/boosting-Lec-Check_sol.pdf"}
