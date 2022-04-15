@@ -298,7 +298,7 @@
     2021-04-13:
       Label: Lab
       Topics:
-        #- {"gbm.py": ""}
+        - {"Gradient Boosting": "https://nyu-ds1003.github.io/mlcourse/2022/labs/lab11.pdf"}
         #  - {"Gradient Boosting": ""}
        # - Review on gradient boosting
        # - (demo) L2 boosting
