@@ -314,8 +314,9 @@
     2021-04-18:
       Label: Lecture (TL)
       Topics:
-        # - {"Feature Learning": ""}
-        # - {"Backpropagation": ""}
+         - Feature Learning
+         - Backpropagation
+        - {"Slides": "https://nyu-ds1003.github.io/mlcourse/2022/lectures/lec11/12.pdf"}
       Materials:
         #- {"Discussion": "https://nyu-ds1003.github.io/mlcourse/lectures/lec12/discussion.pdf"}
       References:
