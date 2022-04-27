@@ -356,7 +356,7 @@
       Label: Lab
       Topics:
         #- {"GMM and EM Questions": ""}
-        #- {"GMM Lab": "https://nyu-ds1003.github.io/mlcourse/labs/13-20210428-GMM/05.12-Gaussian-Mixtures.ipynb"}
+        - {"GMM Lab": "https://nyu-ds1003.github.io/mlcourse/2022/labs/lab13.pdf"}
 -
   Title: Week 14
   Events:
