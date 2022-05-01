@@ -369,7 +369,7 @@
     2018-05-04:
       Label: Lab
       Topics:
-      #  - {"Final Review": ""}
+        - {"Final Review Questions": "https://nyu-ds1003.github.io/mlcourse/2022/labs/lab14_questions.pdf"}
       Materials:
         #- {"Spring 2020 Final": "https://nyu-ds1003.github.io/mlcourse/exams/sp20/final.pdf"}
         #- {"Spring 2020 Final Solution": "https://nyu-ds1003.github.io/mlcourse/exams/sp20/final_with_solutions.pdf"}
