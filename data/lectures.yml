@@ -363,7 +363,7 @@
     2021-05-03:
       Label: Lecture (HH, TL)
       Topics:
-      #  - {"Summary and Outlook": ""}
+        - {"Summary and Outlook": "https://nyu-ds1003.github.io/mlcourse/2022/lectures/lec14/14.pdf"}
       Materials:
       References:
     2018-05-04:
